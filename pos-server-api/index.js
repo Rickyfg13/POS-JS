@@ -11,11 +11,11 @@ const app = express()
 const options = {
 	definition: {
 		swagger: "2.0",
-		title: "DEACOURSE API DOCS",
+		title: "RICKY API DOCS",
 		openapi: "3.1.0",
 		info: {
-			title: "DEACOURSE API DOCS",
-			description: "POS-SERVER API Documentation For CuyUniverse Perople"
+			title: "RICKY API DOCS",
+			description: "POS-SERVER API Documentation For POS STUDY"
 		},
 		schemes: ["dev-sandbox"]
 	},
